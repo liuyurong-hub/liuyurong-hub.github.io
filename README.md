@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![liuyurong's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuyurong001&show_icons=true&theme=vue-dark)
 
 <!--
 **liuyurong001/liuyurong001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
